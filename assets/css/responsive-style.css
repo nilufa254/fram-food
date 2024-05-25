@@ -1,0 +1,86 @@
+@media (max-width: 1170px){
+    /* Genarel CSS */
+    .section-subtitle{
+        max-width: 60%;
+    }
+
+    .bannar-section .carousel-item{
+        min-height: 90vh;
+    }
+
+    
+}
+
+
+@media (max-width:991px){
+    /* Genarel CSS */
+    .about .banner-section
+.product .banner-section
+.gallary .banner-section
+.contact .banner-section{
+    padding-top: 12.5rem;
+    padding-bottom: 3rem;
+}
+
+/* Navbar CSS */
+/* Navbar Css */
+.header .navbar{
+    background-size: cover !important;
+    padding: 2rem;
+}
+
+.header .navbar-nav{
+    margin-top: 2rem;
+}
+
+.header .navbar-nav .nav-link{
+    padding: 0.2re 0.5rem;
+    margin-bottom: 1rem;
+}
+
+.header .header-right span{
+    padding: 0.2rem 0.5rem;
+
+}
+
+}
+
+
+@media (max-width:767px){
+
+    /* Genarel CSS */
+    body,
+    html{
+        font-size: 8px;
+    }
+
+    .section-subtitle{
+        max-width: 80%;
+    }
+    /* Banner Section */
+    .bannar-section{
+        min-height: 70vh;
+    }
+
+    .bannar-section .carousel-item{
+        min-height: 80vh;
+    }
+
+
+    
+}
+
+
+@media (max-width:590px){
+        /* Genarel CSS */
+        body,
+        html{
+            font-size: 7px;
+        }
+    
+        .section-subtitle{
+            max-width: 80%;
+        }
+    
+    
+}
